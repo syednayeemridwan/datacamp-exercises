@@ -1,3 +1,4 @@
 Course List as Branch Names
 
 001. Introduction-to-Data-Science-in-Python
+002. Data-Manipulation-with-pandas
