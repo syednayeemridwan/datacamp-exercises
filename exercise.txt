@@ -4,3 +4,4 @@ Course List as Branch Names
 002. Data-Manipulation-with-pandas
 003. Python-Data-Science-Toolbox-Part-1
 004. Python-Data-Science-Toolbox-Part-2
+005. Data Types for Data Science in Python
