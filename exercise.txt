@@ -7,3 +7,4 @@ Course List as Branch Names
 005. Data-Types-for-Data-Science-in-Python
 006. Writing-Efficient-Python-Code
 007. Working-with-Dates-and-Times-in-Python
+008. Regular-Expressions-in-Python
