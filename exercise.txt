@@ -203,3 +203,4 @@ Course List as Branch Names
 203. Creating-PostgreSQL-Databases
 204. Improving-Query-Performance-in-PostgreSQL
 205. Introduction-to-SQL
+206. Intermediate-SQL
