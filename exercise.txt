@@ -199,3 +199,11 @@ Course List as Branch Names
 
 
 201. Introduction-to-Relational-Databases-in-SQL
+202. Database-Design
+203. Creating-PostgreSQL-Databases
+204. Improving-Query-Performance-in-PostgreSQL
+205. Introduction-to-SQL
+206. Intermediate-SQL
+207. Joining-Data-in-SQL
+208. Data-Manipulation-in-SQL
+209. PostgreSQL-Summary-Stats-and-Window-Functions
