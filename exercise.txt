@@ -1,1 +1,209 @@
 Course List as Branch Names
+
+001. Introduction-to-Data-Science-in-Python
+002. Data-Manipulation-with-pandas
+003. Python-Data-Science-Toolbox-Part-1
+004. Python-Data-Science-Toolbox-Part-2
+005. Data-Types-for-Data-Science-in-Python
+006. Writing-Efficient-Python-Code
+007. Working-with-Dates-and-Times-in-Python
+008. Regular-Expressions-in-Python
+009. Web-Scraping-in-Python
+010. Writing-Functions-in-Python
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+171. Understanding-Data-Science
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+201. Introduction-to-Relational-Databases-in-SQL
+202. Database-Design
+203. Creating-PostgreSQL-Databases
+204. Improving-Query-Performance-in-PostgreSQL
+205. Introduction-to-SQL
+206. Intermediate-SQL
+207. Joining-Data-in-SQL
+208. Data-Manipulation-in-SQL
+209. PostgreSQL-Summary-Stats-and-Window-Functions
