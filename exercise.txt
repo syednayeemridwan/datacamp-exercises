@@ -302,3 +302,4 @@ Course List as Branch Names
 302. Data-Analysis-in-Spreadsheets
 303. Spreadsheets-Foundations
 304. Introduction-to-Spreadsheets
+305. Intermediate-Spreadsheets
