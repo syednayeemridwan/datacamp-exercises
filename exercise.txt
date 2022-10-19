@@ -304,3 +304,4 @@ Course List as Branch Names
 304. Introduction-to-Spreadsheets
 305. Intermediate-Spreadsheets
 306. Pivot-Tables-in-Spreadsheets
+307. Data-Visualization-in-Spreadsheets
