@@ -306,3 +306,4 @@ Course List as Branch Names
 306. Pivot-Tables-in-Spreadsheets
 307. Data-Visualization-in-Spreadsheets
 308. Conditional-Formatting-in-Spreadsheets
+309. Error-and-Uncertainty-in-Spreadsheets
