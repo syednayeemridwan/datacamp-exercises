@@ -308,3 +308,4 @@ Course List as Branch Names
 308. Conditional-Formatting-in-Spreadsheets
 309. Error-and-Uncertainty-in-Spreadsheets
 310. Marketing-Analytics-in-Spreadsheets
+311. Financial-Analytics-in-Spreadsheets
