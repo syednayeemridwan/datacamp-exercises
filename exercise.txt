@@ -183,7 +183,7 @@ Course List as Branch Names
 183. Communicating-Data-Insights
 184. Data-Communication-Concepts
 185. AWS-Cloud-Concepts
-
+186. NoSQL-Concepts
 
 
 
