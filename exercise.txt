@@ -209,3 +209,4 @@ Course List as Branch Names
 209. PostgreSQL-Summary-Stats-and-Window-Functions
 210. Functions-for-Manipulating-Data-in-PostgreSQL
 211. Exploratory-Data-Analysis-in-SQL
+212. Data-Driven-Decision-Making-in-SQL
