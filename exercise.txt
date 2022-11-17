@@ -211,3 +211,4 @@ Course List as Branch Names
 211. Exploratory-Data-Analysis-in-SQL
 212. Data-Driven-Decision-Making-in-SQL
 213. Applying-SQL-to-Real-World-Problems
+214. Analyzing-Business-Data-in-SQL
