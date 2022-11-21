@@ -214,3 +214,4 @@ Course List as Branch Names
 214. Analyzing-Business-Data-in-SQL
 215. Reporting-in-SQL
 216. Introduction-to-SQL-Server
+217. Intermediate-SQL-Server
