@@ -216,3 +216,4 @@ Course List as Branch Names
 216. Introduction-to-SQL-Server
 217. Intermediate-SQL-Server
 218. Time-Series-Analysis-in-SQL-Server
+219. Functions-for-Manipulating-Data-in-SQL-Server
