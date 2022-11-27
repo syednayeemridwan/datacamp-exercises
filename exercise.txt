@@ -219,3 +219,4 @@ Course List as Branch Names
 219. Functions-for-Manipulating-Data-in-SQL-Server
 220. Transactions-and-Error-Handling-in-SQL-Server
 221. Writing-Functions-and-Stored-Procedures-in-SQL-Server
+222. Building-and-Optimizing-Triggers-in-SQL-Server
