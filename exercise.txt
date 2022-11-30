@@ -223,3 +223,4 @@ Course List as Branch Names
 223. Improving-Query-Performance-in-SQL-Server
 224. Hierarchical-and-Recursive-Queries-in-SQL-Server
 225. Cleaning-Data-in-SQL-Server-Databases
+226. Cleaning-Data-in-PostgreSQL-Databases
