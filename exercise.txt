@@ -1,1 +1,251 @@
 Course List as Branch Names
+
+001. Introduction-to-Data-Science-in-Python
+002. Data-Manipulation-with-pandas
+003. Python-Data-Science-Toolbox-Part-1
+004. Python-Data-Science-Toolbox-Part-2
+005. Data-Types-for-Data-Science-in-Python
+006. Writing-Efficient-Python-Code
+007. Working-with-Dates-and-Times-in-Python
+008. Regular-Expressions-in-Python
+009. Web-Scraping-in-Python
+010. Writing-Functions-in-Python
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+201. Introduction-to-Relational-Databases-in-SQL
+202. Database-Design
+203. Creating-PostgreSQL-Databases
+204. Improving-Query-Performance-in-PostgreSQL
+205. Introduction-to-SQL
+206. Intermediate-SQL
+207. Joining-Data-in-SQL
+208. Data-Manipulation-in-SQL
+209. PostgreSQL-Summary-Stats-and-Window-Functions
+210. Functions-for-Manipulating-Data-in-PostgreSQL
+211. Exploratory-Data-Analysis-in-SQL
+212. Data-Driven-Decision-Making-in-SQL
+213. Applying-SQL-to-Real-World-Problems
+214. Analyzing-Business-Data-in-SQL
+215. Reporting-in-SQL
+216. Introduction-to-SQL-Server
+217. Intermediate-SQL-Server
+218. Time-Series-Analysis-in-SQL-Server
+219. Functions-for-Manipulating-Data-in-SQL-Server
+220. Transactions-and-Error-Handling-in-SQL-Server
+221. Writing-Functions-and-Stored-Procedures-in-SQL-Server
+222. Building-and-Optimizing-Triggers-in-SQL-Server
+223. Improving-Query-Performance-in-SQL-Server
+224. Hierarchical-and-Recursive-Queries-in-SQL-Server
+225. Cleaning-Data-in-SQL-Server-Databases
+226. Cleaning-Data-in-PostgreSQL-Databases
+227. Transactions-and-Error-Handling-in-PostgreSQL
+228. Introduction-to-Oracle-SQL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+251. Introduction-to-Power-BI
