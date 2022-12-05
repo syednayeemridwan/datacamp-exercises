@@ -249,3 +249,4 @@ Course List as Branch Names
 
 
 251. Introduction-to-Power-BI
+252. Introduction-to-DAX-in-Power-BI
