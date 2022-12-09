@@ -253,3 +253,4 @@ Course List as Branch Names
 253. Data-Visualization-in-Power-BI
 254. Data-Preparation-in-Power-BI
 255. Data-Modeling-in-Power-BI
+256. Case-Study-Analyzing-Job-Market-Data-in-Power-BI
