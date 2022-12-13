@@ -257,3 +257,4 @@ Course List as Branch Names
 257. DAX-Functions-in-Power-BI
 258. Intermediate-DAX-in-Power-BI
 259. Data-Transformation-in-Power-BI
+260. Intermediate-Data-Modeling-in-Power-BI
