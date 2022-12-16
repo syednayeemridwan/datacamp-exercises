@@ -259,3 +259,4 @@ Course List as Branch Names
 259. Data-Transformation-in-Power-BI
 260. Intermediate-Data-Modeling-in-Power-BI
 261. Trend-Analysis-in-Power-BI
+262. Exploratory-Data-Analysis-in-Power-BI
