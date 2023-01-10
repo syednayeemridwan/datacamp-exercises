@@ -14,3 +14,4 @@ Course List as Branch Names
 012. Introduction-to-Regression-with-statsmodels-in-Python
 013. Intermediate-Regression-with-statsmodels-in-Python
 014. Sampling-in-Python
+015. Hypothesis-Testing-in-Python
