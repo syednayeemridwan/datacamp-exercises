@@ -15,4 +15,5 @@ Course List as Branch Names
 013. Intermediate-Regression-with-statsmodels-in-Python
 014. Sampling-in-Python
 015. Hypothesis-Testing-in-Python
-016. Time-Series-with-Python
+016. Manipulating-Time-Series-Data-in-Python
+017. Time-Series-Analysis-in-Python
